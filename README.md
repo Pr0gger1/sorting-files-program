@@ -8,6 +8,7 @@ pip install pyinstaller
 ```
 pyinstaller --onefile FileSorter.py
 ```
+bash
 If you need you may also add an icon to the program
 ```
 pyinstaller --onefile -i "icon_path" FileSorter.py
